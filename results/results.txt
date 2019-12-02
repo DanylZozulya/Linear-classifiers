@@ -1,0 +1,14 @@
+theta for Perceptron is 3.9173999999999918, 4.164000000000001
+theta_0 for Perceptron is -8.0
+theta for Average Perceptron is 3.47826049999999, 3.611060999999974
+theta_0 for Average Perceptron is -6.373
+theta for Pegasos is 0.7536802421076947, 0.749209236441582
+theta_0 for Pegasos is -0.6276783349436645
+Training accuracy for perceptron:   0.8862
+Validation accuracy for perceptron: 0.7520
+Training accuracy for average perceptron:   0.8930
+Validation accuracy for average perceptron: 0.7820
+Training accuracy for Pegasos:                     0.7863
+Validation accuracy for Pegasos:                   0.7140
+Most Explanatory Word Features
+['great', 'delicious', 'best', 'perfect', 'favorite', 'love', '.', 'loves', 'excellent', ')']
